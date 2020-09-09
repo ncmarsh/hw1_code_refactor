@@ -1,6 +1,6 @@
 # Homework 1 - Code Refactor
 
-I was given an existing web page and was tasked with refactoring the HTML and CSS files to make it more accessible.
+Given an existing web page, I was tasked with refactoring the HTML and CSS files to make it more accessible.
 
 ## Table of Contents
 
@@ -10,24 +10,22 @@ I was given an existing web page and was tasked with refactoring the HTML and CS
 1. [Roadmap](#Roadmap)
 1. [Credits](#Credits)
 1. [Links](#Links)
-1. [Copyright](#Copyright)
+1. [Contributing](#Contributing)
+1. [License](#License)
 
 ## Usage
----
 
 Refactoring a web page means making the code easier to read, both for future developers but also for screenreaders, which are used by people who are visually impaired. You do this by altering the semantics of the HTML code, which in turn helps a screenreader understand the content on your web page and relay that information to the user. This makes your web page more accessible and will reach to a wider audience.
 
 It also means going through and cleaning up the code to reduce repetition, to make sure it's organized in a logical fashion and to add notes to make it easier and faster for future developers to understand. Having clean, organized code will help streamline any changes that may need to be done in the future.
 
 ## Languages and Concepts
----
 
 - HTML5
 - CSS
 - Semantic HTML
 
 ## Method
----
 
 I decided to start at the bottom of the HTML page and work my way up, <strong>readjusting spacing</strong> on the HTML document as I progressed and <strong>adding notes</strong> to label each block to make it quicker for the next developer to connect the elements between the HTML and CSS files. 
 
@@ -42,25 +40,26 @@ Once I was done making adjustments to the block I was working on, I pushed it to
 1. My last step, I added a more descriptive \<title\> to the \<head\> of the HTML, made a few more organizational adjustments, changed the \<figure\> to and \<img\> tag for the background image (after reading more about figures), and added my README.md file.
 
 ## Roadmap
----
 
 To advance this web page, I would like to make adjustments to the HTML and CSS code to make it more responsive so that it adapts to varying display sizes.
 
 ## Credits
----
 
 - [What is semantic markup in web design?](https://seekbrevity.com/semantic-markup-important-web-design/#:~:text=Semantic%20markup%20is%20a%20way,content%20rather%20than%20its%20appearance)
 
 - [W3Schools - HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
 ## Links
----
+
 - [Project Repository](https://github.com/ncmarsh/hw1_code_refactor)
 - [Horiseon Social Solution Services Web Page](https://ncmarsh.github.io/hw1_code_refactor/)
 
-### Copyright
----
-© 2019 Trilogy Education Services, a 2U, Inc. brand.
-All Rights Reserved.
+### Contributing
+
+This is a personal project; no contributions are required at this time.
+
+### License
+
+No license granted.
 
 ##### [Return to Top of Page](#Homework-1---Code-Refactor)
